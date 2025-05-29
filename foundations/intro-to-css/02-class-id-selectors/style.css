@@ -3,11 +3,17 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.SecondElement{
+#SecondElement{
     color:blue;
     font-size:36px;
 }
 
 .ThirdElement{
     font-size: 24px;
+}
+
+#FourthElement{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight:bold;
 }
